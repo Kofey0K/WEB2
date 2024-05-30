@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Meetings>
+    <Meeting date="2024-05-30">
+        <Time>10:00</Time>
+        <Person>John Doe</Person>
+        <Place>Office</Place>
+    </Meeting>
+    <Meeting date="2024-05-31">
+        <Time>14:00</Time>
+        <Person>Jane Smith</Person>
+        <Place>Cafe</Place>
+    </Meeting>
+    <Meeting date="2024-05-31">
+        <Time>11:00</Time>
+        <Person>Maksym</Person>
+        <Place>KPI</Place>
+    </Meeting>
+</Meetings>
